@@ -29,8 +29,8 @@
 ![Anthropic](https://img.shields.io/badge/Anthropic-191919?style=for-the-badge&logo=anthropic&logoColor=white)
 
 ## GitHub at a glance
-![GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=m17kea&show_icons=true&theme=github_dark&hide_border=true&cache_seconds=7200)
-![Top languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=m17kea&layout=compact&theme=github_dark&hide_border=true&cache_seconds=7200)
+![GitHub stats](./profile/stats.svg)
+![Top languages](./profile/top-langs.svg)
 ![GitHub streak](https://streak-stats.demolab.com?user=m17kea&theme=dark&hide_border=true)
 
 ---
