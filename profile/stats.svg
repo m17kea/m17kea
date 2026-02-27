@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Michael Armitage's GitHub Stats, Rank: B+</title>
-        <desc id="descId">Total Stars Earned: 0, Total Commits  : 7351, Total PRs: 2428, Total Issues: 3349, Contributed to (last year): 18</desc>
+        <desc id="descId">Total Stars Earned: 0, Total Commits  : 7351, Total PRs: 2427, Total Issues: 3349, Contributed to (last year): 18</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
