@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Michael Armitage's GitHub Stats, Rank: B+</title>
-        <desc id="descId">Total Stars Earned: 0, Total Commits  : 9380, Total PRs: 3065, Total Issues: 3667, Contributed to (last year): 36</desc>
+        <desc id="descId">Total Stars Earned: 0, Total Commits  : 9394, Total PRs: 3068, Total Issues: 3667, Contributed to (last year): 36</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 101.29196426904376;
+        stroke-dashoffset: 99.9487961849913;
       }
     }
   
